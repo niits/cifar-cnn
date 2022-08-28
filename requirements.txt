@@ -1,0 +1,6 @@
+pytorch_lightning==1.7.3
+torch==1.12.1
+torchmetrics==0.9.3
+torchvision==0.13.1
+wandb==0.13.2
+rich==12.5.1
